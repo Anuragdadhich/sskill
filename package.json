@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Anuragdadhich.github.io/softyskill",
+  "homepage": "https://Anuragdadhich.github.io/nwos",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
